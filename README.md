@@ -109,4 +109,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 [website]: https://claritycode.herokuapp.com/en
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[linkedin]: https://www.linkedin.com/in/rafa%C5%82-pisarczyk-07a53399/
